@@ -1,7 +1,6 @@
 import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 import PhotoGrid from "./components/photogrid/photogrid";
 import ImageDetails from "./components/image-details/image-details";
-import "./App.css";
 
 const App = () => {
   return (
